@@ -32,9 +32,7 @@ public class MainActivity extends AppCompatActivity {
     };
 
     Integer[] imgid={
-            R.drawable.numb1 ,R.drawable.numb2,
-            R.drawable.numb3,R.drawable.numb4,
-            R.drawable.numb5,
+            R.drawable.flashcardseticon,
     };
     @Override
     protected void onCreate(Bundle savedInstanceState) {
